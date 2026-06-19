@@ -1,5 +1,5 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v1.9/firmware.bin",
-  "release_notes": "Initial release"
+  "version": "v2.0",
+  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.0/firmware.bin",
+  "release_notes": "Sessions now sync directly to cloud without app being open. Push notifications now work when app is closed."
 }
