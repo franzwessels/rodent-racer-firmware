@@ -1,5 +1,5 @@
 {
-  "version": "v2.0",
-  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.0/firmware.bin",
-  "release_notes": "Sessions now sync directly to cloud without app being open. Push notifications now work when app is closed."
+  "version": "v2.1",
+  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.1/firmware.bin",
+  "release_notes": "WiFi failure now starts setup hotspot instead of factory resetting. Factory reset properly clears WiFi library cache."
 }
