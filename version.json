@@ -1,5 +1,5 @@
 {
-  "version": "v2.1",
-  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.1/firmware.bin",
-  "release_notes": "WiFi failure now starts setup hotspot instead of factory resetting. Factory reset properly clears WiFi library cache."
+  "version": "v2.2",
+  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.2/firmware.bin",
+  "release_notes": "Factory reset now wipes all session data for privacy. QR code shown on first boot to download the app. Wiping data message shown on display during reset."
 }
