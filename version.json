@@ -1,5 +1,5 @@
 {
   "version": "v2.6",
   "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.6/firmware.bin",
-  "release_notes": "Factory reset now wipes all session data for privacy. QR code shown on first boot to download the app. Wiping data message shown on display during reset."
+  "release_notes": "Discard zero distance run sessions"
 }
