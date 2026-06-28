@@ -1,5 +1,5 @@
 {
-  "version": "v2.11",
-  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.11/firmware.bin",
-  "release_notes": "v2.11: rescue mode — spin > 8km/h for 20s to factory reset when WiFi fails"
+  "version": "v2.14",
+  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.14/firmware.bin",
+  "release_notes": "v2.14: WiFi boot retry, firmware version on clock screen, hotspot rescue mode"
 }
