@@ -1,5 +1,5 @@
 {
-  "version": "2.15",
+  "version": "v2.15",
   "url": "https://raw.githubusercontent.com/franzwessels/rodent-racer-firmware/main/firmware.bin",
   "release_notes": "Added Identify — briefly shows your wheel's name on its display, useful if you have more than one. Fixed the display staying dark when Identify was triggered after the screen had timed out. The app now shows your wheel's exact IP address to match what's on the wheel's screensaver."
 }
