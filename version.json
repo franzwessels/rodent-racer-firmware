@@ -1,5 +1,5 @@
 {
-  "version": "v2.16",
-  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.16/firmware.bin",
-  "release_notes": "updated delete session functionality"
+  "version": "v2.17",
+  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.17/firmware.bin",
+  "release_notes": "updated delete account functionality"
 }
