@@ -1,5 +1,5 @@
 {
-  "version": "v2.18",
-  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.18/firmware.bin",
-  "release_notes": "Updated screen display"
+  "version": "v2.19",
+  "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.19/firmware.bin",
+  "release_notes": "Fixed run start times"
 }
