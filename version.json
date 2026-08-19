@@ -1,5 +1,5 @@
 {
   "version": "v2.20",
   "url": "https://github.com/franzwessels/rodent-racer-firmware/releases/download/v2.21/firmware.bin",
-  "release_notes": "Fixed an issue where "Todays Run Time could show less time than your pet actually spent running. Also improved accuracy of daily stats if the wheel loses power overnight."
+  "release_notes": "Fixed an issue where Today's Run Time could show less time than your pet actually spent running. Also improved accuracy of daily stats if the wheel loses power overnight."
 }
